@@ -1,0 +1,18 @@
+Hello, Gaurav! Welcome to the Data Structures and Algorithms (DSA) problem-solving 20-day Hard. 
+I'm here to challenge your problem-solving skills and help you sharpen your DSA knowledge.
+As a Computer Science and Engineering student, I'm excited to present a series of intriguing DSA questions to you today. 
+Let's dive right into the world of algorithms and data structures. 
+Are you ready to tackle some exciting challenges?
+
+Question 1) Product of Array Except Self
+
+Link: https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1
+
+Question 2) Equilibrium index of an array
+
+Link: https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1
+
+Question 3) 3 Sum
+
+Link: https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1
+
